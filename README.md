@@ -15,7 +15,7 @@ Pilares da Linguagem Estruturada:
   Isso pode ser feito enquanto uma condição é verdadeira (while, do-while) ou um número específico de vezes (for).
   Essa repetição permite que operações similares sejam realizadas com diferentes conjuntos de dados sem repetir o mesmo código várias vezes.
 
-4.Modularização:
+4. Modularização:
   Este pilar enfatiza a divisão de um programa em funções ou módulos menores e independentes. 
   Estes módulos podem ser chamados e reutilizados em várias partes do programa.
   A ideia é que cada módulo tenha uma única responsabilidade e funcione de forma independente dos outros módulos. 
